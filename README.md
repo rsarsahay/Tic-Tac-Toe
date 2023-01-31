@@ -39,6 +39,6 @@ These are the step to build Tic-Tac-Toe game using python :
 ->command will called when the button is clicked
 ->lambda() function used to send specific data to the callback function.
 
-We have successfully devloped the Tic-Tac-Toe game project in python. We use tkinter module for rendering graphics on a display window.
-We learn how to create buttons and config text on buttons and also how to use lambda functions to send specific values to callback functions.
-In this way we successfully made a Tic-Tac-Toe game python project. I hope you enjoyed building tic-tac-toe game project.
+I have successfully devloped the Tic-Tac-Toe game project in python. I used tkinter module for rendering graphics on a display window.
+I learned how to create buttons and config text on buttons and also how to use lambda functions to send specific values to callback functions.
+In this way I successfully made a Tic-Tac-Toe game python project.
